@@ -1,0 +1,51 @@
+.header, .footer {
+  background-color: #1F2937;
+  display: flex;
+}
+
+.header {
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 52px 0 52px;
+}
+
+.card {
+  height: 300px;
+}
+
+#c1 {
+  background-color:  #1F2937;
+}
+
+#c2 {
+  background-color:  #ffffff;
+}
+
+#c3 {
+  background-color:  #b8b8b8;
+}
+
+#c4 {
+  background-color:  #ffffff;
+}
+
+.logo {
+  color: #F9FAF8;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: #F9FAF8;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.footer {
+  color: #F9FAF8;
+  justify-content: center;
+}
